@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aton Bertini Dornfeld,
-- 👀 I’m interested in Software Engineering, Data Engineering and Data science
+- 👋 Hi, I’m Aton Bertini Dornfeld
+- 🐍 This profile is dedicated to AI - Machine Learning - Data science - Data Analysis
+- ⚡ Software portfolio at [@aton-py](https://github.com/aton-py/)
 - 📫 [How to reach me ...](https://www.linkedin.com/in/aton-bertini-dornfeld-143986104/)https://www.linkedin.com/in/aton-bertini-dornfeld-143986104/
-- ⚡ Software portfolio at @aton-py
